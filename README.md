@@ -41,7 +41,7 @@ Based on the project implementation:
 ##  File Structure
 
 ## Author 
-* **Umme Ammara** - *2nd Year B.Tech CSE(AI & ML)
+* **Umme Ammara** - *2nd Year B.Tech CSE(AI & ML)*
 * **Internship:** Oasis Infobyte
   ---
   * This project is submitted as part of the Web Development and Designing Internship at Oasis Infobyte.*
