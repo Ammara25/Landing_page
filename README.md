@@ -33,7 +33,7 @@ Based on the project implementation:
 
 1.  Clone this repository to your local machine:
     ```bash
-    git clone 
+    git clone  https://github.com/Ammara25/Landing_page.git
     ```
 2.  Navigate to the project folder.
 3.  Open `index.html` in your web browser to view the page.
